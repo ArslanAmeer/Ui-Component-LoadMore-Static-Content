@@ -20,5 +20,10 @@
     border: 1px solid grey;
     margin: 5px;
     padding: 5px;
-    background-color: whitesmoke
+    background-color: whitesmoke;
+}
+
+/* Add this css class in your style sheet so this class can be toggled through Javascript*/
+.hiddenContent {
+    display: none;
 }
