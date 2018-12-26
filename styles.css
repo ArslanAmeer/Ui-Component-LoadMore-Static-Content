@@ -1,0 +1,24 @@
+/* Main Styles For Demo only. 
+    Dosent Required with working
+*/
+.container {
+    margin: 0;
+    padding: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.container>a {
+    flex: 1 0 100%;
+}
+
+.box {
+    height: 200px;
+    width: 350px;
+    border: 1px solid grey;
+    margin: 5px;
+    padding: 5px;
+    background-color: whitesmoke
+}
