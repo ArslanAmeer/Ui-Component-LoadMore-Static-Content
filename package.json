@@ -1,0 +1,11 @@
+{
+  "name": "ui-content-loadmore",
+  "version": "1.0.0",
+  "description": "Load more feature button to load static content already loaded on webpage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arslan Ameer",
+  "license": "GPL-3.0"
+}
