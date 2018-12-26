@@ -8,10 +8,13 @@
     justify-content: space-evenly;
     flex-wrap: wrap;
     align-items: center;
+    scroll-behavior: smooth;
 }
 
-.container>a {
-    flex: 1 0 100%;
+.container>p {
+    flex: 1 0 50%;
+    cursor: pointer;
+    text-decoration: underline;
 }
 
 .box {
