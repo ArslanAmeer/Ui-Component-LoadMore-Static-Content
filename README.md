@@ -12,7 +12,7 @@ Basic, Simple and Easy To Use. 😎
 
 ![](demo.gif)
 
-## [TRY HERE](arslanameer.github.io/Ui-Component-LoadMore-Static-Content) 😍
+## [TRY HERE](https://arslanameer.github.io/Ui-Component-LoadMore-Static-Content/) 😍
 
 [ © Copyrights [Arslan Ameer](http://www.arslanameer.cf) ]
 
