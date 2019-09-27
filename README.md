@@ -20,7 +20,7 @@ Basic, Simple and Easy To Use. 😎
 
 # 🔐LICENSE:
 
-Ui-Component-LoadMore-(Static Content) © Copyright 2018 by **[Arslan Ameer](http://www.arslanameer.cf/)**
+Ui-Component-LoadMore-(Static Content) © Copyright 2018 - 2019 by **[Arslan Ameer](http://www.arslanameer.cf/)**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
